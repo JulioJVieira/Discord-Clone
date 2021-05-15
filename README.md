@@ -1,16 +1,16 @@
 ### `Discord Clone`
 
-## project Description
+## Project Description
 
 - This project was developed to improve my skills on - frontend tools. 
 
--I only used React Components and Styled-Components to dev it.
+- I only used React Components and Styled-Components to dev it.
 
--This project was showed by Rocketseat on youtube, and I tried to reproduce it.
+- This project was showed by Rocketseat on youtube, and I tried to reproduce it.
 
 ### Get Start
 
--To install this Repo, first of all, you need to clone it:
+To install this Repo, first of all, you need to clone it:
 
 `git clone https://github.com/PortalGramado/ingressos.git`
 
