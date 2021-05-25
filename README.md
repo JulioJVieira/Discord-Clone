@@ -12,7 +12,7 @@
 
 To install this Repo, first of all, you need to clone it:
 
-`git clone https://github.com/PortalGramado/ingressos.git`
+`git clone https://github.com/JulioJVieira/Discord-Clone.git`
 
 Then, you can run the app in the develop mode, using yarn command:
 
