@@ -2,7 +2,7 @@
 
 ## Project Description
 
-- This project was developed to improve my skills on - frontend tools. 
+- This project was developed to improve my skills on frontend tools. 
 
 - I only used React Components and Styled-Components to dev it.
 
